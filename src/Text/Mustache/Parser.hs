@@ -25,7 +25,7 @@ module Text.Mustache.Parser
 
   -- * Parser
 
-  , Parser, MustacheState
+  , Parser, MustacheState, ParseError
 
   -- * Mustache Constants
 
